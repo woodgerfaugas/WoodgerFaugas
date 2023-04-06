@@ -79,7 +79,7 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Woody97&show_icons=true&locale=en" alt="github username" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WoodyFaugas&show_icons=true&locale=en" alt="github username" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=woodyfaugas&" alt="github username" /></p>
 
