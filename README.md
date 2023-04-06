@@ -4,7 +4,7 @@
 **woodyfaugas/WoodyFaugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3 align="center">I'm a lifelong learner, and tech craftsman, who took on coding out of necessity.</h3>
+<h3 align="center">I'm a lifelong learner, and tech craftsman, who took on coding out of necessity and owing to my appreciation of the culture of sharing and creativity fostered within CS.</h3>
 
 - 🔭 I’m currently, and almost exclusively, working on [research projects in the biomedical sciences (e.g., studying physiology using Python-guided webscraping.)](https://orcid.org/0000-0002-9817-3932)
 
