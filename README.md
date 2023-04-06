@@ -12,11 +12,7 @@
 
 - 📝 I regularly write articles on [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
 
-- 💬 Ask me about **react, java, MySQL etc.**
-
-- 📫 How to reach me **example@gmail.com**
-
-- ⚡ Fun fact **I enjoy biking and cooking...**
+- ⚡ Fun facts: **I enjoy biking, the arts, and cooking...**
 
 
 <br>
