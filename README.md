@@ -86,4 +86,3 @@
 <p align="left"> <a href="https://twitter.com/username" target="blank"><img src="https://img.shields.io/twitter/follow/twitter_username?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodyfaugas&label=Profile%20views&color=0e75b6&style=flat" alt="github username" /> </p>
-![image](https://user-images.githubusercontent.com/98236664/230293085-f31e4a07-792d-4b1e-8592-0d38046c2465.png)]
