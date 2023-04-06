@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋🏾, I'm Woody</h1>
 
-<h3 align="center">And I'm a novice programmer and technological craftsman who took on coding out of necessity.</h3>
+<h3 align="center">And I'm a lifelong learner and technological craftsman who took on coding out of necessity.</h3>
 
 <p><img align="left" src="sampleImage.png" alt="200" border="0" width="220" height="200" /></p>
 
