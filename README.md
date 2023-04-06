@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm a lifelong learner, and tech craftsman, who took on coding out of necessity.</h3>
 
-- 🔭 I’m currently working on [project name](project link)
+- 🔭 I’m currently working on [various research projects](https://orcid.org/0000-0002-9817-3932)
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
