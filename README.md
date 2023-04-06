@@ -86,3 +86,5 @@
 <p align="left"> <a href="https://twitter.com/username" target="blank"><img src="https://img.shields.io/twitter/follow/twitter_username?logo=twitter&style=for-the-badge" alt="twitter username" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodyfaugas&label=Profile%20views&color=0e75b6&style=flat" alt="github username" /> </p>
+
+![Image](https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg)
