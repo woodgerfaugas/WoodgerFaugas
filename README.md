@@ -5,7 +5,7 @@
 
 -->
 
-<h4 align="center">I'm a lifelong learner, and tech craftsman, who took on coding out of necessity.</h3>
+<h3 align="center">I'm a lifelong learner, and tech craftsman, who took on coding out of necessity.</h3>
 
 <p><img align="left" src="sampleImage.png" alt="200" border="0" width="220" height="200" /></p>
 
