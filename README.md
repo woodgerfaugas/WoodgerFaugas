@@ -6,9 +6,9 @@
 
 <h3 align="center">I'm a lifelong learner, and tech craftsman, who took on coding out of necessity.</h3>
 
-- 🔭 I’m currently and mainly working on [research projects in sciences (e.g., involving Python-guided webscraping.)](https://orcid.org/0000-0002-9817-3932)
+- 🔭 I’m currently, and almost exclusively, working on [research projects in the biomedical sciences (e.g., studying physiology using Python-guided webscraping.)](https://orcid.org/0000-0002-9817-3932)
 
-- 🌱 I’m currently learning **Frameworks, courses etc.**
+- 🌱 I’m currently learning **Medicine and Python.**
 
 - 🤝 I’m looking for help with [project name](project link)
 
@@ -20,12 +20,8 @@
 
 - 📫 How to reach me **example@gmail.com**
 
-- ⚡ Fun fact **I enjoy biking...**
+- ⚡ Fun fact **I enjoy biking and cooking...**
 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <br>
 <h3 align="left">Connect with me:</h3> 
