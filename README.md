@@ -19,10 +19,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 
-<a href="https://stackoverflow.com/users/stackoverflow user id" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow user id" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle username" height="30" width="40" /></a>
-<a href="https://fb.com/facebook username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook username" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram username" height="30" width="40" /></a>
+<a href="https://hcommons.org/members/wfaugas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow user id" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
