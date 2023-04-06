@@ -10,11 +10,7 @@
 
 - 🌱 I’m currently learning **Medicine and Python.**
 
-- 🤝 I’m looking for help with [project name](project link)
-
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
-
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly write articles on [blog link](https://synapse.ucsf.edu/users/woodger-faugas)
 
 - 💬 Ask me about **react, java, MySQL etc.**
 
