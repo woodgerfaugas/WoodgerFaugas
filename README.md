@@ -3,29 +3,17 @@
 <!--
 **woodyfaugas/WoodyFaugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Woody</h1>
+<h1 align="center">Hi 👋🏾, I'm Woody</h1>
 
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">And I'm a novice programmer and technological craftsman who took on coding out of necessity.</h3>
 
-<p><img align="left" src="sampleImage.png" alt="Woody" border="0" width="220" height="200" /></p>
+<p><img align="left" src="sampleImage.png" alt="200" border="0" width="220" height="200" /></p>
 
 - 🔭 I’m currently working on [project name](project link)
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
-
-- 👯 I’m looking to collaborate on [project name](project link)
 
 - 🤝 I’m looking for help with [project name](project link)
 
@@ -37,9 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **example@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
-
-- ⚡ Fun fact **I think I am funny...**
+- ⚡ Fun fact **I enjoy biking...**
 
 
 ### Blogs posts
