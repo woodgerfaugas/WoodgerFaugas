@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi 👋🏾, I'm Woody
 
 <!--
 **woodyfaugas/WoodyFaugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-
-<h1 align="center">Hi 👋🏾, I'm Woody</h1>
 
 <h3 align="center">And I'm a lifelong learner and technological craftsman who took on coding out of necessity.</h3>
 
