@@ -2,12 +2,11 @@
 
 <!--
 **woodyfaugas/WoodyFaugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
 
 <h3 align="center">I'm a lifelong learner, and tech craftsman, who took on coding out of necessity.</h3>
 
-<p><img align="left" src="sampleImage.png" alt="200" border="0" width="220" height="200" /></p>
+<p><img align="left" src="![image](https://user-images.githubusercontent.com/98236664/230300673-8a0f42f3-5c9d-43e5-9846-bf2693ff199f.png)" alt="200" border="0" width="220" height="200" /></p>
 
 - 🔭 I’m currently working on [project name](project link)
 
