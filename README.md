@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
 
-- ⚡ Fun facts: **I enjoy biking, the arts, and cooking...**
+- ⚡ Fun fact: **I enjoy biking, the arts, and cooking.**
 
 
 <br>
