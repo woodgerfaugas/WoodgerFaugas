@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Medicine and Python.**
 
-- 📝 I regularly write articles on [blog link](https://synapse.ucsf.edu/users/woodger-faugas)
+- 📝 I regularly write articles on [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
 
 - 💬 Ask me about **react, java, MySQL etc.**
 
