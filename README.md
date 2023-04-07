@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently, and almost exclusively, learning the fundaments of medicine, as well as carrying out [research projects in the biomedical sciences](https://orcid.org/0000-0002-9817-3932) (e.g., studying physiology using Python-guided webscraping of anatomical data).
 
-- 📝 I regularly write articles on [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
+- 📝 I write articles for [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
 
 - ⚡ Fun fact: **I enjoy biking, the arts, and cooking.**
 
