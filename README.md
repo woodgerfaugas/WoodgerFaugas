@@ -58,6 +58,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodyfaugas&label=Profile%20views&color=0e75b6&style=flat" alt="github username" /> </p>
 
 ![Image](https://columbiasurgery.org/sites/default/files/surgeons-age-nyt-columbia.jpg)
-
-      </div>
-      <script src="https://www.goodreads.com/review/custom_widget/164552001.Woodger's%20bookshelf:%20read?cover_position=&cover_size=&num_books=5&order=&shelf=&sort=&widget_bg_transparent=" type="text/javascript" charset="utf-8"></script>
