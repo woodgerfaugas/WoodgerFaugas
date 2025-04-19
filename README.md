@@ -14,8 +14,6 @@
 
 - ⚡ Fun fact: **I enjoy medieval games, the arts (e.g., photography), and cooking.**
 
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
