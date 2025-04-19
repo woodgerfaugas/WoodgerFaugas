@@ -6,11 +6,11 @@
 
 <h3 align="center">I'm a lifelong learner who took on coding out of necessity and owing to my appreciation of the culture of sharing and creativity fostered within C.S.</h3>
 
-- 🔭 I’m currently, and almost exclusively, learning the fundaments of medicine, as well as carrying out [research projects in the biomedical sciences](https://orcid.org/0000-0002-9817-3932) (e.g., studying physiology using Python-guided webscraping of anatomical data).
+- 🔭 I’m currently learning the fundaments of medicine, as well as carrying out [research projects, if and when there is any residual time](https://orcid.org/0000-0002-9817-3932).
 
 - 📝 I write articles for [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
 
-- ⚡ Fun fact: **I enjoy biking, the arts, and cooking.**
+- ⚡ Fun fact: **I enjoy medieval strategy games, the arts (e.g., photography), and cooking.**
 
 <br>
 
