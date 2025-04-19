@@ -4,13 +4,13 @@
 **woodyfaugas/WoodyFaugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3 align="center">I'm a lifelong learner who took on coding out of necessity & owing to my appreciation of the culture of sharing & creativity fostered within C.S.</h3>
+<h3 align="center">I'm a lifelong learner who took on coding out of necessity and owing to my appreciation of the culture of sharing & creativity fostered within C.S.</h3>
 
-- 🧠 I'm passionate about, & thus aspire to, a career in psychiatry (especially street & indigent psychiatry) —merging law • & computer science —to advance care.
+- 🧠 I'm passionate about, and thus aspire to, a career in psychiatry (especially street and indigent psychiatry) —merging law & computer science —to advance care.
 
 - 🔭 I’m currently learning medicine & have experience carrying out [pluridisciplinary research projects](https://orcid.org/0000-0002-9817-3932).
 
-- 📝 I've written articles for [Synapse](https://synapse.ucsf.edu/users/woodger-faugas). | ⚡ Fun fact: **I enjoy medieval games, the arts (e.g., photography), & cooking.**
+- 📝 I've written articles for [Synapse](https://synapse.ucsf.edu/users/woodger-faugas). | ⚡ Fun fact: **I enjoy medieval games, the arts (e.g., photography), and cooking.**
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
