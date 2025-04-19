@@ -4,7 +4,7 @@
 **woodyfaugas/WoodyFaugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3 align="center">I'm a lifelong learner who took on coding out of necessity and owing to my appreciation of the culture of sharing & creativity fostered within C.S.</h3>
+<h3 align="center">I'm a lifelong learner who took on coding out of necessity and owing to my appreciation of the culture of sharing and creativity fostered within C.S.</h3>
 
 - 🧠 I'm passionate about, and thus aspire to, a career in psychiatry (especially street and indigent psychiatry) —merging law & computer science —to advance care.
 
