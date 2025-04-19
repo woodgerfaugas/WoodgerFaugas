@@ -12,7 +12,7 @@
 
 - 📝 I've written articles for [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
 
-- ⚡ Fun fact: **I enjoy medieval strategy games, the arts (e.g., photography), and cooking.**
+- ⚡ Fun fact: **I enjoy medieval games, the arts (e.g., photography), and cooking.**
 
 <br>
 
