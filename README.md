@@ -8,7 +8,7 @@
 
 - 🧠 I'm passionate about, and thus aspire to, a career in psychiatry (especially street & indigent psychiatry) —merging law • & computer science —to advance care.
 
-- 🔭 I’m currently learning medicine, as well as carrying out [research projects](https://orcid.org/0000-0002-9817-3932), if and when there is any residual time, i.e., rarely.
+- 🔭 I’m currently learning medicine and have experience carrying out [pluridisciplinary research projects](https://orcid.org/0000-0002-9817-3932).
 
 - 📝 I write articles for [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
 
