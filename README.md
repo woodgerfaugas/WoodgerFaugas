@@ -59,4 +59,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodyfaugas&label=Profile%20views&color=0e75b6&style=flat" alt="github username" /> </p>
 
-![Image]([https://columbiasurgery.org/sites/default/files/surgeons-age-nyt-columbia.jpg](https://cdn.pixabay.com/photo/2024/09/05/20/12/brain-9026012_1280.png)
+![Image](https://cdn.pixabay.com/photo/2024/09/05/20/12/brain-9026012_1280.png)
