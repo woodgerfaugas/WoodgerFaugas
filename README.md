@@ -10,9 +10,7 @@
 
 - 🔭 I’m currently learning medicine and have experience carrying out [pluridisciplinary research projects](https://orcid.org/0000-0002-9817-3932).
 
-- 📝 I've written articles for [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
-
-- ⚡ Fun fact: **I enjoy medieval games, the arts (e.g., photography), and cooking.**
+- 📝 I've written articles for [_Synapse](https://synapse.ucsf.edu/users/woodger-faugas). || ⚡ Fun fact: **I enjoy medieval games, the arts (e.g., photography), and cooking.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
