@@ -6,6 +6,8 @@
 
 <h3 align="center">I'm a lifelong learner who took on coding out of necessity and owing to my appreciation of the culture of sharing and creativity fostered within C.S.</h3>
 
+- 🧠 I'm passionate about, and thus aspire to, a career in psychiatry (especially street & indigent psychiatry) —merging law • & computer science —to advance care.
+
 - 🔭 I’m currently learning medicine, as well as carrying out [research projects, if and when there is any residual time](https://orcid.org/0000-0002-9817-3932), i.e., rarely.
 
 - 📝 I write articles for [_Synapse_.](https://synapse.ucsf.edu/users/woodger-faugas)
