@@ -6,11 +6,9 @@
 
 <h3 align="center">I'm a lifelong learner who took on coding out of necessity and owing to my appreciation of the culture of sharing and creativity fostered within C.S.</h3>
 
-- 🧠 I'm passionate about, and thus aspire to, a career in psychiatry (especially street and indigent psychiatry) —merging law & computer science —to advance care.
+- 🔭 I've worked on some [research projects](https://orcid.org/0000-0002-9817-3932).
 
-- 🔭 I’m currently learning medicine and have experience carrying out [pluridisciplinary research projects](https://orcid.org/0000-0002-9817-3932).
-
-- 📝 I've written articles for [Synapse](https://synapse.ucsf.edu/users/woodger-faugas). | ⚡ Fun fact: **I enjoy medieval games, the arts (e.g., photography), and cooking.**
+- 📝 Part of my oeuvre includes: [Books](https://play.google.com/store/info/name/Woodger_Faugas?id=11t0p6hj_3). | ⚡ Fun fact: **I enjoy medieval games, the arts (e.g., photography), and cooking.**
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left"> 
